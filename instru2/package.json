@@ -1,0 +1,15 @@
+{
+  "name": "instru2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "archivo.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node scripts/archivo.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@types/node": "^18.8.5"
+  }
+}
